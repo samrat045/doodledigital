@@ -1,0 +1,4 @@
+project_id = "zoxrkxamvdnpymnipogj"
+
+[functions.digitize-handwriting]
+verify_jwt = false
